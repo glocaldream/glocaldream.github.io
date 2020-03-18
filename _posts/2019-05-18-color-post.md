@@ -3,7 +3,7 @@ layout: post
 title: Color Post
 tags: [Test, Color, Markdown] #태그
 color: brown #색깔 지정할 수 있음
-author: sylhare 
+author: hahyun 
 excerpt_separator: <!--more--> # <!--more--> 블로그 목록에서 해당하는 내용을 여기까지만 보여주겠다는 표시
 ---
 
