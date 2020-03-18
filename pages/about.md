@@ -29,7 +29,7 @@ tags: [About]
 
 #### CONTACT US  
 TEL : 041-530-8980  
-E-Mail: lhkb082100@gmail.com  
+E-Mail: make@glocal.or.kr  
 
 
 [드림웨어]:https://dreamware.or.kr/
