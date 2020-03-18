@@ -8,7 +8,7 @@ excerpt_separator: <!--more--> # <!--more--> 블로그 목록에서 해당하는
 ---
 
 # What a colorful post!
-
+## yap!
 This is an idea that came from [xukimseven/HardCandy-Jekyll](https://github.com/xukimseven/HardCandy-Jekyll) 
 looking at this cheerful and colorful them, I wanted to enable something similar for mine.
 
