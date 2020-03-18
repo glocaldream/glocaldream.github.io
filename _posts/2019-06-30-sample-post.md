@@ -2,6 +2,7 @@
 layout: post
 title: Sample post
 tags: [A Tag, Test, Lorem, Ipsum]
+author: seonghyeon
 excerpt_separator: <!--more-->
 ---
 
